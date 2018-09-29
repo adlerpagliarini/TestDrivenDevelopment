@@ -19,10 +19,16 @@ namespace TestDrivenDevelopment
             this.Itens.Add(item);
         }
 
-        public double ItemDeMaiorValor(CarrinhoDeCompras carrinho)
+        public double MaiorValor(CarrinhoDeCompras carrinho)
         {
             double? valorItem = carrinho.Itens.OrderByDescending(i => i.ValorUnitario).FirstOrDefault()?.ValorUnitario;
             return valorItem.GetValueOrDefault();
+        }
+
+        public Item ItemDeMaiorValor(CarrinhoDeCompras carrinho)
+        {
+            var item = carrinho.Itens.OrderByDescending(i => i.ValorUnitario).FirstOrDefault();
+            return item;
         }
     }
 }
