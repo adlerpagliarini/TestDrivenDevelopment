@@ -12,6 +12,9 @@
 #Chapter-06 - Quality on Code Test
 - Refactoring codes from Chapter-05, SetUp, Test Data Builder, Asserts and TearDown
 
+#Chapter-07 - TDD and Cohesion
+- Refactoring codes from Chapter-04, Creating interfaces and abstract class for discount calculator
+
 # References
  - Test-Driven Development - Teste e Design no Mundo Real com .NET
 <img src="https://github.com/adlerpagliarini/TestDrivenDevelopment/blob/master/tdd-dotnet-book.png" />

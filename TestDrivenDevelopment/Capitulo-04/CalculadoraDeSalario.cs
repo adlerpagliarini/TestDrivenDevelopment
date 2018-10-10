@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace TestDrivenDevelopment
+namespace TestDrivenDevelopment.Capitulo_04
 {
     public class CalculadoraDeSalario
     {

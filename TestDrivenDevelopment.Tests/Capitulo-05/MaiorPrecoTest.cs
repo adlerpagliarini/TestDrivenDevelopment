@@ -36,7 +36,8 @@ namespace TestDrivenDevelopment.Tests
             carrinho.Adiciona(new Item("Geladeira", 1, 900.0));
             double valor = carrinho.MaiorValor(carrinho);
             Assert.AreEqual(900.0, valor, 0.0001);
-        }
+        }
+
         [Test]
         public void DeveRetornarValorDoItemSeCarrinhoComNElementos()
         {

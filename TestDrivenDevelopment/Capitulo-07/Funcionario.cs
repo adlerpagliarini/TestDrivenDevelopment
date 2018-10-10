@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace TestDrivenDevelopment.Capitulo_04
+namespace TestDrivenDevelopment.Capitulo_07
 {
     public class Funcionario
     {

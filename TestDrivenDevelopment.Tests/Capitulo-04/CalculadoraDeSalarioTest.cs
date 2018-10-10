@@ -3,8 +3,9 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 using TestDrivenDevelopment;
+using TestDrivenDevelopment.Capitulo_04;
 
-namespace TestDrivenDevelopment.Tests
+namespace TestDrivenDevelopment.Tests.Capitulo_04
 {
     [TestFixture]
     public class CalculadoraDeSalarioTest
