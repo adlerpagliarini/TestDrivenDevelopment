@@ -18,6 +18,9 @@
 #Chapter-08 - TDD and Coupling
 - Design tests with Mocks and how to decoupling from static classes and multiple classes at constructor
 
+#Chapter-09 - TDD and Encapsulation
+- An example using a processor of payments
+
 # References
  - Test-Driven Development - Teste e Design no Mundo Real com .NET
 <img src="https://github.com/adlerpagliarini/TestDrivenDevelopment/blob/master/tdd-dotnet-book.png" />
