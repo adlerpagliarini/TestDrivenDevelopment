@@ -18,6 +18,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\TestDrivenDevelopment.Capitulo.10\TestDrivenDevelopment.Capitulo.10.csproj" />
     <ProjectReference Include="..\TestDrivenDevelopment\TestDrivenDevelopment.csproj" />
   </ItemGroup>
 

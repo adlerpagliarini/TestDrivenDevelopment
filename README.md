@@ -21,6 +21,9 @@
 #Chapter-09 - TDD and Encapsulation
 - An example using a processor of payments
 
+#Chapter-10 - Integration tests and TDD
+- How to test integrated functionalities like a database, I used EF Core as an example to save and list data with transactions to enable separated tests for each operation
+
 # References
  - Test-Driven Development - Teste e Design no Mundo Real com .NET
 <img src="https://github.com/adlerpagliarini/TestDrivenDevelopment/blob/master/tdd-dotnet-book.png" />
